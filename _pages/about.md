@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of BaSc Collaboration!
+This is the front page of BaSc Collaboration! This site is currently under construction..
 
 For more info
 ------
