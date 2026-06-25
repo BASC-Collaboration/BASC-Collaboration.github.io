@@ -3,3 +3,4 @@ archetypes/
 config/
 public/
 resources/
+node_modules/
