@@ -1,0 +1,1 @@
+The BaSc Collaboration is a consortium of collaborations working together on common interests of using lattice QCD to compute the interactions of two or more hadrons, often involving at least one baryon.
