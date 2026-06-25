@@ -20,6 +20,7 @@ presenter = "presenter"
     dateFormat = "2 January 2006"
     front_news = 10
     #home_banner = "images/some_image.png"
+    keywords = []
 
     title="BaSc Collaboration"
     author = "BaSc Collaboration"
