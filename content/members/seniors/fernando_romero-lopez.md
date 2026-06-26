@@ -18,6 +18,8 @@ social: # ALL ARE OPTIONAL
     - icon: "orcid"
       source: "ai"
       link: "https://orcid.org/0000-0003-0239-1394"
+    - icon: "envelope"
+      source: "fa"
 ---
 
 Assistant professor at the University of Bern
