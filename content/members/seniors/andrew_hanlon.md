@@ -1,7 +1,7 @@
 ---
 first_name: Andrew
 last_name: Hanlon
-portrait: images/portraits/Andrew-Hanlon.JPG
+portrait: images/portraits/Andrew-Hanlon.jpg
 institute: Kent State University
 position: senior
 title: Assistant Professor
