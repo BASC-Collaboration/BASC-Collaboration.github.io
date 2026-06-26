@@ -9,17 +9,14 @@ Then,
 git clone --recursive https://github.com/BASC-Collaboration/BASC-Collaboration.github.io
 cd BASC-Collaboration.github.io
 git submodule update --remote --recursive
+bash themes/hugo-texademic/scripts/add_npm_modules.sh
 hugo serve
 ```
 This should launch a webpage locally that you can view at the site:
 ```
 http://localhost:1313/
 ```
-or whichever address the prompt from the terminal tells you.  If this does not work, then stop serving the site, and do
-```
-bash themes/hugo-texademic/scripts/add_npm_modules.sh
-```
-and then try serving the site again.  You may also have to install `Dart sass`, with instructions [here](https://gohugo.io/functions/css/sass/#dart-sass).  If this still does not work, contact André.
+or whichever address the prompt from the terminal tells you.  If this does not work, you may also have to install `Dart sass`, with instructions [here](https://gohugo.io/functions/css/sass/#dart-sass).  If this still does not work, contact André.
 
 After you have a working site, you can add new content by making a new branch
 ```
