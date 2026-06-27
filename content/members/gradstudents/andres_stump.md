@@ -5,12 +5,12 @@ portrait: images/portraits/Andres_Stump.jpg # copy an image to assets/images, ot
 institute: Humboldt-Universität zu Berlin
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
 title:  #Senior Scientist, Professor, ...
-website: # if you have a home page
+website: https://lattice-field-theory.pages.cms.hu-berlin.de/lft-website/people/andres-stump/ # if you have a home page
 email: andres.stump@hu-berlin.de # your email
 phone: # your work phone number [optional]
 social: # ALL ARE OPTIONAL
-    #- icon: "envelope"
-    #  source: "fa"
+    - icon: "envelope"
+      source: "fa"
     - icon: "inspire"
       source: "ai"
       link: "https://inspirehep.net/authors/3085345"
