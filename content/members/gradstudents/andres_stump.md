@@ -4,7 +4,7 @@ last_name: Stump
 portrait: images/portraits/Andres_Stump.jpg # copy an image to assets/images, otherwise, get anonymous
 institute: Humboldt-Universität zu Berlin
 position: gradstudent #senior, postdoc, gradstudent, undergrad, former
-title:  #Senior Scientist, Professor, ...
+title: PhD Student #Senior Scientist, Professor, ...
 website: https://lattice-field-theory.pages.cms.hu-berlin.de/lft-website/people/andres-stump/ # if you have a home page
 email: andres.stump@hu-berlin.de # your email
 phone: # your work phone number [optional]
