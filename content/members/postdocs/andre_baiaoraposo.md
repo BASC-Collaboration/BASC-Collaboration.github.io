@@ -3,7 +3,7 @@ first_name: Andre
 last_name: Baiao-Raposo
 portrait: images/portraits/andre_baiaoraposo.jpg
 institute: Ruhr-Universität Bochum
-position: Postdoc
+position: postdoc
 title: Postdoc
 website: https://www.tp2.ruhr-uni-bochum.de
 email: andre.baiaoraposo@ruhr-uni-bochum.de
