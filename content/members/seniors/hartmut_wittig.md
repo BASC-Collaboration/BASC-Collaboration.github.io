@@ -19,4 +19,4 @@ social:
       link: "https://scholar.google.com/citations?user=kus-Ja4AAAAJ&hl=en"
 ---
 
-I am Professor at the Institute for Nuclear Physics at the University of Mainz and Section Leader of the Theory Group at Helmholtz Institute Mainz.
+Professor at the Institute for Nuclear Physics at the University of Mainz and Section Leader of the Theory Group at Helmholtz Institute Mainz.
