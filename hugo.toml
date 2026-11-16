@@ -37,7 +37,7 @@ presenter = "presenter"
     math = true
     enableDuckDuckGoSearchBox = true
     numberedSubtitles = true
-    default_portrait = "images/anonymous_person.png"
+    default_portrait = "images/portraits/anonymous_person.png"
     memberClass = false
 
 [[menus.main]]
