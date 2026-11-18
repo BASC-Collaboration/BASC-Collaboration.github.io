@@ -1,9 +1,7 @@
 # BaSc Collaboration Webpage
 
 
-In order to test locally, make sure to have the `extended` version of [Hugo installed](https://gohugo.io/installation/).
-The site works with Hugo version 0.161.1.  Precompiled Hugo binaries are available [here](github.com/gohugoio/hugo/releases/tag/v0.151.0) or can be installed with `brew install hugo`.
-Installation requires downloading the correct binary for your system's architecture and decompressing it into a folder in your path.
+In order to test locally, make sure you have the correct version and `extended` [Hugo installed](https://gohugo.io/installation/) - with the version specified in the [TeXademic Theme](https://github.com/walkloud/hugo-texademic) READEME.md.
 Then,
 ```
 git clone --recursive https://github.com/BASC-Collaboration/BASC-Collaboration.github.io
@@ -34,4 +32,4 @@ git add <files you added/modified>
 git commit -m "some useful message"
 git push
 ```
-and then issue a pull request to the `main` branch and assign @walkloud
+and then issue a pull request to the `main` branch and assign to the team `webpage approvers` to review it.
