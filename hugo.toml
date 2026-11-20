@@ -42,7 +42,7 @@ presenter = "presenter"
 
 [[menus.main]]
     name = 'BaSc'
-    params = { icon='images/basc.jpg' }
+    params = { icon='images/collaboration_map/basc_logo.jpg' }
     pageRef = '/'
     weight = 10
 [[menus.main]]
